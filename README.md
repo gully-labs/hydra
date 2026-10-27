@@ -1,3 +1,21 @@
+<!-- gully-header:start -->
+<a href="https://gullylabs.xyz"><img src="https://gullychain.xyz/brand/gully-labs/hydra.svg" alt="Gully Labs · Gully ID: Hydra" width="100%"></a>
+
+<p align="center">
+  <a href="https://gullylabs.xyz"><img src="https://img.shields.io/badge/gullylabs.xyz-00D2FF?style=for-the-badge&labelColor=06050D&logo=googlechrome&logoColor=06050D" alt="Website"></a>
+  <a href="https://docs.gullylabs.xyz"><img src="https://img.shields.io/badge/Docs-0B0A16?style=for-the-badge&labelColor=06050D&logo=readthedocs&logoColor=00D2FF" alt="Docs"></a>
+  <a href="https://x.com/Gully_Labs"><img src="https://img.shields.io/badge/@Gully__Labs-0B0A16?style=for-the-badge&labelColor=06050D&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://t.me/GullyLabsNews"><img src="https://img.shields.io/badge/Telegram-0B0A16?style=for-the-badge&labelColor=06050D&logo=telegram&logoColor=26A5E4" alt="Telegram"></a>
+  <a href="https://github.com/gully-labs"><img src="https://img.shields.io/badge/GitHub-0B0A16?style=for-the-badge&labelColor=06050D&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
+
+<p align="center"><b>Gully ID: Hydra: Ory Hydra, the OpenID Connect provider behind Gully ID.</b></p>
+
+<p align="center"><sub>Maintained by <a href="https://gullylabs.xyz">Gully Labs</a>. Fork of <a href="https://github.com/ory/hydra">ory/hydra</a>, used under its Apache-2.0 licence. Not affiliated with or endorsed by Ory.</sub></p>
+
+---
+<!-- gully-header:end -->
+
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/ory/meta/master/static/banners/hydra.svg" alt="Ory Hydra - Open Source OAuth 2 and OpenID Connect server">
 </h1>
